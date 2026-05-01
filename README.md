@@ -1,11 +1,10 @@
 # GenAI_FPA_Assistant
 This is a Generative AI Assistant that will take audit reports, financial documents etc. for exploration and Summarization. Gives clean report summary, extract text, draft report, recognize patterns and gives use cases.
 
-Problem:
-  Manual reporting is time consuming and nobody wanna do that, seriously.
+Problem: Manual reporting is time consuming and nobody wanna do that, seriously.
+
   
-Solution:
-  AI powered summarization and report generation.(because, why not)
+Solution: AI powered summarization and report generation.(because, why not)
   
 Features:
   1. Summarization
