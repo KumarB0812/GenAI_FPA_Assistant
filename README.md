@@ -16,6 +16,6 @@ Features:
 
 
 Impact:
-  Reduces manual effort(for sure)
-  Improves consistency(hack yeah)
-  Enables faster decision-making(so you can wrap up quickly and go home, jk)
+  1. Reduces manual effort(for sure)
+  2. Improves consistency(hack yeah)
+  3. Enables faster decision-making(so you can wrap up quickly and go home, jk)
